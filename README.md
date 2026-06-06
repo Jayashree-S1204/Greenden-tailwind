@@ -23,7 +23,7 @@ Greenden is a responsive plant store website built using HTML and Tailwind CSS. 
 ## How to View
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/greenden.git
+   https://jayashree-s1204.github.io/Greenden-tailwind/
    ```
 2. Open the project folder.
 3. Launch `index.html` in your web browser.
